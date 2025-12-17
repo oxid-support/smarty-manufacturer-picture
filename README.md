@@ -13,7 +13,7 @@ This package is not published on Packagist. Add it as a VCS repository:
 
 ```bash
 composer config repositories.oxs-smarty-manufacturer-picture vcs https://github.com/oxid-support/smarty-manufacturer-picture
-composer require oxid-support/smarty-manufacturer-picture:*
+composer require oxid-support/smarty-manufacturer-picture 1.0.0
 ```
 
 After installation, run migrations and activate the module:
