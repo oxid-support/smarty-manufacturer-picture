@@ -24,4 +24,11 @@ $aModule = [
     'templates'   => [
         'manufacturer_picture.tpl' => 'views/admin_smarty/tpl/manufacturer_picture.tpl',
     ],
+    'blocks'      => [
+        [
+            'template' => 'manufacturer_main.tpl',
+            'block'    => 'admin_manufacturer_main_form',
+            'file'     => 'views/admin_smarty/blocks/manufacturer_main_form.tpl',
+        ],
+    ],
 ];
