@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OX>
+    <OXMENU id="NAVIGATION_ESHOPADMIN">
+        <MAINMENU id="mxmainmenu">
+            <SUBMENU id="mxmanufacturer" cl="manufacturer" list="manufacturer_list">
+                <TAB id="tbclmanufacturer_picture" cl="manufacturer_picture" />
+            </SUBMENU>
+        </MAINMENU>
+    </OXMENU>
+</OX>

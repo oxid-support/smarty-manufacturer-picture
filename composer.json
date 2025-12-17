@@ -1,0 +1,22 @@
+{
+    "name": "oxid-support/smarty-manufacturer-picture",
+    "description": "Adds the missing manufacturer_picture.tpl template for Smarty admin theme",
+    "type": "oxideshop-module",
+    "keywords": [
+        "oxid",
+        "modules",
+        "eShop",
+        "smarty",
+        "manufacturer"
+    ],
+    "license": [
+        "proprietary"
+    ],
+    "require": {
+        "php": "^8.0",
+        "oxid-esales/smarty-admin-theme": "*"
+    },
+    "conflict": {
+        "oxid-esales/oxideshop-ce": "<7.0 || >=7.1"
+    }
+}

@@ -1,0 +1,4 @@
+table_storage:
+  table_name: oxmigrations_oxs_smarty_manufacturer_picture
+migrations_paths:
+  'OxidSupport\SmartyManufacturerPicture\Migrations': data
