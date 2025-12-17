@@ -19,8 +19,8 @@ composer require oxid-support/smarty-manufacturer-picture 1.0.0
 After installation, run migrations and activate the module:
 
 ```bash
-vendor/bin/oe-eshop-db_migrate migrations:migrate
-vendor/bin/oe-console oe:module:activate oxs_smarty_manufacturer_picture
+./vendor/bin/oe-eshop-db_migrate migrations:migrate
+./vendor/bin/oe-console oe:module:activate oxs_smarty_manufacturer_picture
 ```
 
 ## Features
