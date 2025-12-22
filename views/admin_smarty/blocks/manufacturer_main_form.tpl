@@ -1,3 +1,4 @@
+[{$smarty.block.parent}]
 <tr>
     <td class="edittext" width="120">
     [{oxmultilang ident="GENERAL_ACTIVE"}]
